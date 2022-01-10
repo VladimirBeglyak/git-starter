@@ -6,4 +6,5 @@ public class Person {
     private String name;
     private Integer age;
     private LocalDate birthday;
+    private String email;
 }
